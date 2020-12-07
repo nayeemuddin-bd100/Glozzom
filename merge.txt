@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 merge conflic happen manually for practice purpose only . so that i added a same file like branch3 called merge.txt in master branch .
 
+=======
+merge conflict will happen from master branch
+>>>>>>> branch3
